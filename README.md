@@ -11,6 +11,8 @@ Supervised Machine Learning model using Random Forest regression to predict Airb
 ```
 ├── data/
 │   └── airbnb-listings-extract.csv    # Raw Airbnb dataset
+│   └── airbnb_test.csv    # Test Airbnb dataset
+│   └── airbnb_train.csv    # Train Airbnb dataset
 ├── notebooks/
 │   └── airbnb_price_prediction.ipynb  # Main analysis and modeling
 ├── module_utils.py                     # Dependencies and configuration
