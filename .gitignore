@@ -1,1 +1,4 @@
 ML-Project.ipynb
+.virtual_documents/
+__pycache__/
+.data/
